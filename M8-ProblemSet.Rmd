@@ -1,7 +1,7 @@
 ---
 title: "STA130H1S -- Winter 2022"
 author: "S. Caetano & S. Schwartz"
-subtitle: Module 8 Problem Set - Part 1 Sample Solutions
+subtitle: Module 8 Problem Set
 output:
   pdf_document: default
 ---
